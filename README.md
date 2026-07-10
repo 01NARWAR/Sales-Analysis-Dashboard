@@ -82,11 +82,11 @@ This dashboard solves these problems by providing an interactive executive-level
 ---
 ## 📥 Download Files
 
-- 📊 **Excel Dashboard:** [Download Excel](02-Excel/Sales_Analysis_Dashboard_Final.xlsx)
+- 📊 **Excel Dashboard:** [Download Excel](02-Excel/Final%20Dashboard/Sales_Analysis_Dashboard_Final.xlsx)
 
-- 📄 **PDF Report:** [Download PDF](07-Documents/Sales_Analysis_Dashboard_Final.pdf)
+- 📄 **PDF Report:** [Download PDF](02-Excel/Final%20Dashboard/Sales_Analysis_Dashboard_Final.pdf)
 
-- 📂 **Dataset:** [Sample Superstore](01-Dataset/Sample%20-%20Superstore.xls)
+- 📂 **Dataset:** [Sample Superstore](01-Dataset/Superstore.xlsx)
 ---
 
 ## 📊 KPIs
