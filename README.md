@@ -1,3 +1,7 @@
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Project](https://img.shields.io/badge/Project-End--to--End-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
 # 📊 Sales Analysis Dashboard
 > End-to-End Data Analysis Project using Advanced Excel
 ![Sales Dashboard](06-Images/Dashboard_Preview.png)
