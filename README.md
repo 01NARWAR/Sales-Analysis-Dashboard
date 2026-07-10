@@ -1,10 +1,27 @@
-![Sales Dashboard](06-Images/Dashboard_Preview.png)
-\# 📊 Sales Analysis Dashboard
+# 📊 Sales Analysis Dashboard
 > End-to-End Data Analysis Project using Advanced Excel
+![Sales Dashboard](06-Images/Dashboard_Preview.png)
+## 🚀 Live Project
 
+## 📊 Dashboard Preview
 
+- 📂 Excel Dashboard
+- 📄 PDF Report
+- 📈 Interactive Analysis
 
-\## 📌 Project Overview
+---
+
+## 🛠️ Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Power Pivot
+- Data Model
+- GETPIVOTDATA
+- Slicers
+- Timeline
+
+## 📌 Project Overview
 
 
 
@@ -16,11 +33,11 @@ The dashboard helps business users monitor sales performance, profitability, cus
 
 
 
-\---
+---
 
 
 
-\## 🎯 Business Problem
+## 🎯 Business Problem
 
 
 
@@ -28,17 +45,17 @@ Businesses generate thousands of sales records every year, making it difficult t
 
 
 
-\- Best selling products
+- Best selling products
 
-\- Top customers
+- Top customers
 
-\- High revenue states
+- High revenue states
 
-\- Profitability by segment
+- Profitability by segment
 
-\- Monthly sales trend
+- Monthly sales trend
 
-\- Return rate analysis
+- Return rate analysis
 
 
 
@@ -46,11 +63,11 @@ This dashboard solves these problems by providing an interactive executive-level
 
 
 
-\---
+---
 
 
 
-\# 📈 Dashboard Preview
+## 📈 Dashboard Preview
 
 
 
@@ -58,117 +75,117 @@ This dashboard solves these problems by providing an interactive executive-level
 
 
 
-\---
+---
 
 
 
-\# 📊 KPIs
+## 📊 KPIs
 
 
 
-\- Total Sales
+- Total Sales
 
-\- Total Profit
+- Total Profit
 
-\- Total Quantity Sold
+- Total Quantity Sold
 
-\- Total Orders
+- Total Orders
 
-\- Total Customers
+- Total Customers
 
-\- Average Sales
+- Average Sales
 
-\- Average Profit
+- Average Profit
 
-\- Return Rate
+- Return Rate
 
 
 
-\---
+---
 
 
 
-\# 📉 Dashboard Features
+## 📉 Dashboard Features
 
 
 
-\- Interactive Slicers
+- Interactive Slicers
 
-\- Timeline Filter
+- Timeline Filter
 
-\- Dynamic KPI Cards
+- Dynamic KPI Cards
 
-\- Sales by Category
+- Sales by Category
 
-\- Sales by State
+- Sales by State
 
-\- Monthly Sales Trend
+- Monthly Sales Trend
 
-\- Top 10 Products
+- Top 10 Products
 
-\- Top 10 Customers
+- Top 10 Customers
 
-\- Profit by Segment
+- Profit by Segment
 
-\- Return Rate by Category
+- Return Rate by Category
 
 
 
-\---
+---
 
 
 
-\# 💡 Key Business Insights
+## 💡 Key Business Insights
 
 
 
-\- Technology generated the highest sales.
+- Technology generated the highest sales.
 
-\- California recorded the highest sales.
+- California recorded the highest sales.
 
-\- Consumer segment generated the highest profit.
+- Consumer segment generated the highest profit.
 
-\- Canon imageCLASS 2200 was the top-selling product.
+- Canon imageCLASS 2200 was the top-selling product.
 
-\- Sean Miller was the highest revenue customer.
+- Sean Miller was the highest revenue customer.
 
-\- Overall return rate was 5.91%.
+- Overall return rate was 5.91%.
 
 
 
-\---
+---
 
 
 
-\# 🛠 Tools Used
+## 🛠 Tools Used
 
 
 
-\- Microsoft Excel
+- Microsoft Excel
 
-\- Pivot Tables
+- Pivot Tables
 
-\- Power Pivot
+- Power Pivot
 
-\- Data Model
+- Data Model
 
-\- Pivot Charts
+- Pivot Charts
 
-\- Timeline
+- Timeline
 
-\- Slicers
+- Slicers
 
-\- GETPIVOTDATA
+- GETPIVOTDATA
 
-\- Dashboard Design
+- Dashboard Design
 
 
 
-\---
+---
 
 
 
-\# 📂 Project Structure
+## 📂 Project Structure
 
 
 
@@ -188,31 +205,31 @@ This dashboard solves these problems by providing an interactive executive-level
 
 
 
-\---
+---
 
 
 
-\# 🚀 Future Improvements
+## 🚀 Future Improvements
 
 
 
-\- SQL Version
+- SQL Version
 
-\- Power BI Dashboard
+- Power BI Dashboard
 
-\- Python Analysis
+- Python Analysis
 
-\- Forecasting
+- Forecasting
 
-\- Customer Segmentation
-
-
-
-\---
+- Customer Segmentation
 
 
 
-\# 👤 Author
+---
+
+
+
+## 👤 Author
 
 
 
