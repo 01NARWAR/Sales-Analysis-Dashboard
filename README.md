@@ -80,8 +80,14 @@ This dashboard solves these problems by providing an interactive executive-level
 
 
 ---
+## 📥 Download Files
 
+- 📊 **Excel Dashboard:** [Download Excel](02-Excel/Sales_Analysis_Dashboard_Final.xlsx)
 
+- 📄 **PDF Report:** [Download PDF](07-Documents/Sales_Analysis_Dashboard_Final.pdf)
+
+- 📂 **Dataset:** [Sample Superstore](01-Dataset/Sample%20-%20Superstore.xls)
+---
 
 ## 📊 KPIs
 
