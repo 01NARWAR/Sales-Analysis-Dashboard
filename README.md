@@ -1,3 +1,4 @@
+![Sales Dashboard](06-Images/Dashboard_Preview.png)
 \# 📊 Sales Analysis Dashboard
 > End-to-End Data Analysis Project using Advanced Excel
 
