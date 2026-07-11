@@ -2,18 +2,7 @@
 ![Project](https://img.shields.io/badge/Project-End--to--End-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-## 📊 Excel Data Model
 
-This project uses Excel Power Pivot Data Model to create relationships between multiple tables.
-
-### Relationships
-
-- Orders → Returns (Order_ID)
-- Orders → People (Region)
-
-### Data Model Diagram
-
-![Data Model](06-Images/Data_Model_Diagram.png)
 
 # 📊 Sales Analysis Dashboard
 > End-to-End Data Analysis Project using Advanced Excel
@@ -52,7 +41,18 @@ The dashboard helps business users monitor sales performance, profitability, cus
 
 ---
 
+## 📊 Excel Data Model
 
+This project uses Excel Power Pivot Data Model to create relationships between multiple tables.
+
+### Relationships
+
+- Orders → Returns (Order_ID)
+- Orders → People (Region)
+
+### Data Model Diagram
+
+![Data Model](06-Images/Data_Model_Diagram.png)
 
 ## 🎯 Business Problem
 
